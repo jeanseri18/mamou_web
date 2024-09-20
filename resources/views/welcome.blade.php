@@ -120,11 +120,11 @@
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="card border-top border-4 card-hover-with-icon border-0 card-custom cardservice ">
                             <div class="card-body">
-                                <center>
+                            <br><br>    <center>
                                     <div class="icon-shape icon-lg rounded-circle bg-light mb-3 card-icon">
-                                        <img src="../../assets/images/services/achat-rachat.png" width="80px">
+                                        <img src="../../assets/service/Achat-Rachat & Ventede Biens Immobiliers.svg" width="80px">
                                     </div>
-                                    <h5 class="card-title text-dark">Achat-Rachat & Vente de Biens Immobiliers</h5>
+                                    <h3 class="card-title text-dark">Achat-Rachat & Vente de Biens Immobiliers</h5>
                                 </center>
                             </div>
                         </div>
@@ -133,11 +133,11 @@
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="card border-top border-4 card-hover-with-icon border-0 card-custom cardservice ">
                             <div class="card-body">
-                                <center>
+                            <br><br>    <center>
                                     <div class="icon-shape icon-lg rounded-circle bg-light mb-3 card-icon">
-                                        <img src="../../assets/images/services/plan-architectural.png" width="80px">
+                                        <img src="../../assets/service/Élaboration de PlanArchitectural.svg" width="80px">
                                     </div>
-                                    <h5 class="card-title text-dark">Élaboration de Plan Architectural</h5>
+                                    <h3 class="card-title text-dark">Élaboration de Plan Architectural</h5>
                                 </center>
                             </div>
                         </div>
@@ -146,11 +146,11 @@
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="card border-top border-4 card-hover-with-icon border-0 card-custom cardservice ">
                             <div class="card-body">
-                                <center>
+                            <br><br>    <center>
                                     <div class="icon-shape icon-lg rounded-circle bg-light mb-3 card-icon">
-                                        <img src="../../assets/images/services/topographique.png" width="80px">
+                                        <img src="../../assets/service/Topographie.svg" width="80px">
                                     </div>
-                                    <h5 class="card-title text-dark">Topographique</h5>
+                                    <h3 class="card-title text-dark">Topographique</h5>
                                 </center>
                             </div>
                         </div>
@@ -159,11 +159,11 @@
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="card border-top border-4 card-hover-with-icon border-0 card-custom cardservice ">
                             <div class="card-body">
-                                <center>
+                            <br><br>    <center>
                                     <div class="icon-shape icon-lg rounded-circle bg-light mb-3 card-icon">
-                                        <img src="../../assets/images/services/voirie-reseaux.png" width="80px">
+                                        <img src="../../assets/service/Voirie Réseaux et Divers.svg" width="80px">
                                     </div>
-                                    <h5 class="card-title text-dark">Voirie Réseaux et Divers</h5>
+                                    <h3 class="card-title text-dark">Voirie Réseaux et Divers</h5>
                                 </center>
                             </div>
                         </div>
@@ -172,11 +172,11 @@
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="card border-top border-4 card-hover-with-icon border-0 card-custom cardservice ">
                             <div class="card-body">
-                                <center>
+                            <br><br>    <center>
                                     <div class="icon-shape icon-lg rounded-circle bg-light mb-3 card-icon">
-                                        <img src="../../assets/images/services/expertise-immobiliere.png" width="80px">
+                                        <img src="../../assets/service/Expertise Immobilière_1.svg" width="80px">
                                     </div>
-                                    <h5 class="card-title text-dark">Expertise Immobilière</h5>
+                                    <h3 class="card-title text-dark">Expertise Immobilière</h5>
                                 </center>
                             </div>
                         </div>
@@ -185,11 +185,11 @@
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="card border-top border-4 card-hover-with-icon border-0 card-custom cardservice ">
                             <div class="card-body">
-                                <center>
+                            <br><br>    <center>
                                     <div class="icon-shape icon-lg rounded-circle bg-light mb-3 card-icon">
-                                        <img src="../../assets/images/services/main-d-oeuvre.png" width="80px">
+                                        <img src="../../assets/service/Main d'œuvre.svg" width="80px">
                                     </div>
-                                    <h5 class="card-title text-dark">Main d'œuvre</h5>
+                                    <h3 class="card-title text-dark">Main d'œuvre</h5>
                                 </center>
                             </div>
                         </div>
@@ -198,11 +198,11 @@
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="card border-top border-4 card-hover-with-icon border-0 card-custom cardservice ">
                             <div class="card-body">
-                                <center>
+                            <br><br>    <center>
                                     <div class="icon-shape icon-lg rounded-circle bg-light mb-3 card-icon">
-                                        <img src="../../assets/images/services/entretien-maintenance.png" width="80px">
+                                        <img src="../../assets/service/Entretien et MaintenanceBâtiment.svg" width="80px">
                                     </div>
-                                    <h5 class="card-title text-dark">Entretien et Maintenance Bâtiment</h5>
+                                    <h3 class="card-title text-dark">Entretien et Maintenance Bâtiment</h5>
                                 </center>
                             </div>
                         </div>
@@ -211,11 +211,11 @@
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="card border-top border-4 card-hover-with-icon border-0 card-custom cardservice ">
                             <div class="card-body">
-                                <center>
+                            <br><br>    <center>
                                     <div class="icon-shape icon-lg rounded-circle bg-light mb-3 card-icon">
-                                        <img src="../../assets/images/services/vente-materiaux.png" width="80px">
+                                        <img src="../../assets/service/Vente de Matériaux etMatériel de Construction.svg" width="80px">
                                     </div>
-                                    <h5 class="card-title text-dark">Vente de Matériaux et Matériel de Construction</h5>
+                                    <h3 class="card-title text-dark">Vente de Matériaux et Matériel de Construction</h5>
                                 </center>
                             </div>
                         </div>
@@ -224,11 +224,11 @@
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="card border-top border-4 card-hover-with-icon border-0 card-custom cardservice ">
                             <div class="card-body">
-                                <center>
+                            <br><br>    <center>
                                     <div class="icon-shape icon-lg rounded-circle bg-light mb-3 card-icon">
-                                        <img src="../../assets/images/services/architecture-interieur.png" width="80px">
+                                        <img src="../../assets/service/Architecture d’Intérieur.svg" width="80px">
                                     </div>
-                                    <h5 class="card-title text-dark">Architecture d’Intérieur</h5>
+                                    <h3 class="card-title text-dark">Architecture d’Intérieur</h5>
                                 </center>
                             </div>
                         </div>
@@ -237,11 +237,11 @@
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="card border-top border-4 card-hover-with-icon border-0 card-custom cardservice ">
                             <div class="card-body">
-                                <center>
+                            <br><br>    <center>
                                     <div class="icon-shape icon-lg rounded-circle bg-light mb-3 card-icon">
-                                        <img src="../../assets/images/services/location-vente-engins.png" width="80px">
+                                        <img src="../../assets/service/Location et Vented’Engins TP.svg" width="80px">
                                     </div>
-                                    <h5 class="card-title text-dark">Location et Vente d’Engins TP</h5>
+                                    <h3 class="card-title text-dark">Location et Vente d’Engins TP</h5>
                                 </center>
                             </div>
                         </div>
